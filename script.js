@@ -1,3 +1,3 @@
 document.querySelector("#myButton")
-.addEventListener("click", function () {     alert("Hej Hej från JavaScript!");
+.addEventListener("click", function () {     alert("Tjosan hoppsan från JavaScript!");
 });
