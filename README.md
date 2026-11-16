@@ -1,2 +1,4 @@
-# Grupp-4-Repository-1
-Grupp 4 Första repository
+# Mitt första Git-projekt
+Jag studerar IT hos Lexicon.
+Det här projektet ska visa hur Git håller reda på ändringar.
+Här är en ny rad till.
