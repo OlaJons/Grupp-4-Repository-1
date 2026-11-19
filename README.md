@@ -5,5 +5,7 @@ Här är en ny rad till.
 
 Jag fixade denna med sådså! test
 
+Snart äre freeeeeeeeeedag!
+
 Hallabaloo dag3 - fetchändringen/övningen!
 /Zukke
