@@ -1,6 +1,7 @@
 body {
-   font-family: Arial, sans-serif;   
-   background-color: rgb(177, 174, 141);   
+   font-family: Arial, sans-serif;
+   font-size: 20px;  
+   background-color: #222;   
    text-align: center;
 }
-h1 { color: rgb(2, 2, 8); }
+h1 { color: white; }
